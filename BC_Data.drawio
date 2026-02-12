@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kJHzOE9G5vjxDZotWmUk-9" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="290" width="530" x="640" y="1120" as="geometry" />
+          <mxGeometry height="290" width="530" x="656.08" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="kJHzOE9G5vjxDZotWmUk-1" parent="kJHzOE9G5vjxDZotWmUk-9" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
           <mxGeometry height="290" width="530" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry height="60" width="120" x="30" y="200" as="geometry" />
         </mxCell>
         <mxCell id="obYMwnQ1tSEPfEYiCw5y-25" parent="kJHzOE9G5vjxDZotWmUk-9" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;" value="Tableau Connector" vertex="1">
-          <mxGeometry height="120" width="98" x="230" y="160" as="geometry" />
+          <mxGeometry height="120" width="98" x="315.92" y="50" as="geometry" />
         </mxCell>
         <mxCell id="obYMwnQ1tSEPfEYiCw5y-1" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="" vertex="1">
           <mxGeometry height="380" width="640" x="1216.08" y="470" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry height="70" width="130" x="1386.08" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="obYMwnQ1tSEPfEYiCw5y-19" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="&lt;b&gt;DWH&lt;/b&gt;" vertex="1">
-          <mxGeometry height="90" width="110" x="1536.08" y="1170" as="geometry" />
+          <mxGeometry height="90" width="110" x="1538.58" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="obYMwnQ1tSEPfEYiCw5y-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Datastage&lt;/b&gt;" vertex="1">
           <mxGeometry height="70" width="140" x="1646.08" y="1090" as="geometry" />
